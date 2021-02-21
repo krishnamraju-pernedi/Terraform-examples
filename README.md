@@ -1,2 +1,1 @@
-# Terraform-examples
-Terraform
+# terraform-demo
